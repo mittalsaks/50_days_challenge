@@ -1,4 +1,6 @@
 ////Palindrome Check for Linked List
+
+
 Algorithm:
 The goal is to check if the linked list reads the same forwards and backwards. We will follow these steps:
 
@@ -32,6 +34,8 @@ This approach works in O(n) time and uses O(1) space
 
 
 ///Valid Perfect Square
+
+
 1.Base Case (for numbers less than 2):
 If the number is less than 2 (i.e., 0 or 1), it's automatically a perfect square because both 0 and 1 are perfect squares.
 2.Binary Search Initialization:
