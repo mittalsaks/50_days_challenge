@@ -4,6 +4,9 @@
 
 Problem: Add 1 to a number represented by a vector of its digits.
 Algorithm:
+
+
+
 1.Start from the last digit and move left.
 2.If the current digit is less than 9, increment it and return.
 3.If it's 9, set it to 0 and continue.
